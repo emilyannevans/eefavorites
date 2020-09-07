@@ -1,6 +1,10 @@
 package githubTest;
 
-
+/**
+ * 
+ * @author emilyannevans
+ *
+ */
 public class HelloWorld {
 
 	public static void main(String[] args) {
